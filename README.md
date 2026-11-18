@@ -6,8 +6,8 @@ Strategy consultant with a computer engineering degree. I've worked at Oliver Wy
 
 ## Experience
 
-### Oliver Wyman, Saudi Arabia
-Associate Manager, Consulting | Jan 2022 - present
+### Associate Manager, Consulting
+Oliver Wyman, Saudi Arabia | Jan 2022 - present
 
 - Led a team of 3 junior consultants supporting a ministry's Strategy Management Office. We handled the research, quantitative modeling and dashboard design used to track KPIs and guide policy over a 10-year horizon on 15+ social and economic topics, including pensions, worker rights, poverty measurement and drug abuse prevention.
 - Implemented 120+ transformation initiatives for a Ministry of Labor in the GCC. This meant running day-to-day delivery with the client's operational teams, preparing recommendations for senior decision makers, reporting progress to steering committees, and working with other entities in the labor regulation landscape to bring labor laws in line with international standards.
@@ -15,8 +15,8 @@ Associate Manager, Consulting | Jan 2022 - present
 - Built a 5-year strategy for a major Gulf airport to restructure its revenue streams and rework its value proposition, based on a forecast of more than 30 million visits.
 - Helped a central government decision body prioritize transformation projects and estimate their budgets across sectors. I applied association algorithms to the requirements, dependencies and budgets of past projects to pull out patterns and flag risks.
 
-### MDS PACC, United Arab Emirates
-Data Engineer | Jun 2021 - Dec 2021
+### Data Engineer
+MDS PACC, United Arab Emirates | Jun 2021 - Dec 2021
 
 - Analyzed healthcare client datasets to find the groups eligible for benefits, and built a Power BI dashboard for the client's executives.
 - Designed an ETL pipeline in Alteryx Designer to ingest and transform data for a health insurance provider.
